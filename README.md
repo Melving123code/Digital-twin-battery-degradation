@@ -110,6 +110,14 @@ Preprocessing steps:
 
 * **Digital Twin RMSE:** 0.010
 
+## Dataset
+
+The dataset used in this project is the **Li-ion Battery Aging Dataset** from the NASA Ames Prognostics Center of Excellence (PCoE).
+
+This dataset contains experimental data collected from lithium-ion batteries under various operating conditions, including charge and discharge cycles, temperature variations, and capacity degradation over time.
+
+Due to size limitations, the dataset may not be fully previewed on GitHub. If needed, users can obtain the dataset from the NASA Open Data Portal and place `discharge.csv` in the project directory.
+
 ### 🔍 Key Insight
 
 The hybrid Digital Twin model significantly outperforms the standalone physical model.
